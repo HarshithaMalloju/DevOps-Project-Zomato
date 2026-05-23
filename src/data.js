@@ -1,7 +1,7 @@
 const questions = [
   {
     id: 1,
-    title: "Popular cuisines near me",
+    title: "Popular cuisines near you",
     infos: [
       "Bakery food near me • ",
       "Beverages food near me • ",
@@ -48,7 +48,7 @@ const questions = [
   },
   {
     id: 3,
-    title: "Top Restaurant Chains",
+    title: "Top Restaurant Chaines",
     infos: [
       "KFC • ",
       "Paradise Biryani • ",
